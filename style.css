@@ -1,0 +1,238 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1220px;
+    margin: 0 auto;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    align-items: center;
+    gap: 20px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    transition: 0.3s all;
+    font-size: 22px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 21.09px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(115, 115, 115, 1);
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    gap: 600px;
+}
+
+body {
+    background: rgba(255, 255, 255, 1);
+
+}
+
+h1 {
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 900;
+    line-height: 58.59px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: rgba(0, 0, 0, 1);
+
+}
+
+.btnone {
+    width: 179px;
+    height: 53px;
+    top: 550px;
+    left: 122px;
+    gap: 0px;
+    border-radius: 7px;
+    opacity: 0px;
+    background: linear-gradient(95.2deg, #B90160 2.23%, #2E3192 99.51%);
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 900;
+    line-height: 23.44px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+
+}
+
+.one {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.dj {
+    width: 596px;
+    height: 119px;
+    top: 373px;
+    left: 122px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+
+.cap {
+    gap: 50px;
+}
+
+.jd {
+    width: 603px;
+    height: 49px;
+    top: 853px;
+    left: 418px;
+    gap: 0px;
+    opacity: 0px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 58.59px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    text-align: center;
+}
+
+.eva {
+    font-family: Roboto;
+    font-size: 50px;
+    font-weight: 400;
+    line-height: 58.59px;
+    text-align: center;
+    text-underline-position: from-font;
+    color: linear-gradient(95.2deg, #B90160 2.23%, #2E3192 99.51%);
+
+}
+
+.cardbir {
+    display: flex;
+    width: 344px;
+    height: 414px;
+    top: 1022px;
+    left: 143px;
+    gap: 0px;
+    opacity: 0px;
+    box-shadow: 0px 0px 40px 0px rgba(184, 0, 95, 0.2);
+    width: 344px;
+    height: 414px;
+    top: 1022px;
+    left: 143px;
+    gap: 0px;
+    border-radius: 9px ;
+    opacity: 0px;
+    background: rgba(255, 255, 255, 1);
+
+}
+
+.rasm {
+    width: 344px;
+    height: 214px;
+    top: 1022px;
+    left: 143px;
+    gap: 0px;
+    border-radius: 9px 9px 0px 0px;
+    opacity: 0px;
+
+
+}
+.bigcard{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 80px;
+}
+.icibir{
+    display: block;
+    justify-content: center;
+}
+.three{
+    width: 1440px;
+height: 357px;
+
+
+background: linear-gradient(94.31deg, rgba(212, 20, 90, 0.25) 0.96%, rgba(46, 49, 146, 0.25) 104.83%);
+position:relative;
+display: flex;
+
+}
+.imig{
+    position: absolute;
+    left: 250px;
+}
+.piwi{
+    width: 436px;
+height: 187px;
+top: 1759px;
+gap: 0px;
+border-radius: 9px;
+opacity: 0px;
+background: rgba(255, 255, 255, 1);
+box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.25);
+text-align: center;
+padding-top: 75px;
+margin-top: 20%;
+
+}
+.tocna{
+    display: flex;
+    
+    gap: 10px;
+}
+.imigi{
+    position: absolute;
+    left: 500px;
+}
+.imigim{
+    position: absolute;
+    left: 700px;
+}
+h4{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+line-height: 16.41px;
+text-align: left;
+text-underline-position: from-font;
+text-decoration-skip-ink: none;
+color: rgba(0, 0, 0, 1);
+
+}
+.foot{
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    margin: 100px;
+}
